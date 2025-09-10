@@ -84,13 +84,7 @@ The repository is structured to support an end-to-end data warehousing and analy
 
 # ☕ Stay Connected
 
-Connect with me on LinkedIn, YouTube, or my personal website! Your support through likes, subscriptions, and feedback is greatly appreciated.
-
-SQL Projects & Courses: Free course materials and Git repos included for learning and practice.
-
-Tableau Dashboards: Explore HR and Sales visualization projects.
-
-Analytics Projects: End-to-end data analysis and reporting examples.
+Connect with me on LinkedIn! (https://www.linkedin.com/in/harshpret-kaur/) 
 
 # 🛡️ License
 
